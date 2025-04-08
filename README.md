@@ -36,6 +36,7 @@ GIF created with LiceCap
 ## Notes
 
 Describe any challenges encountered while building the app.
+The main challenges I encountered was reviewing some JavaScript basics such as function syntax. I also refreshed my memory in using GitHub to track changes as well as the workflow between remote and local repositories. 
 
 ## License
 
